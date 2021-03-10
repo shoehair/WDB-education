@@ -1,0 +1,196 @@
+/* Ignore following classes */
+
+*{
+    font-family: 'Montserrat', sans-serif;
+    background-color: #EEEEEE;
+}
+
+#intro{
+    color:rgb(0, 0, 0);
+    text-align: center;
+    margin: 50px;
+}
+
+.insideborder{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.para{
+    font-weight: 300;
+    margin-left: 10px;
+}
+
+h2{
+    font-size: medium;
+    font-weight: 200;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+/* Classes that you might find useful */
+/* Note* These classes do not cover every possibloe case to build you flags, you will have to continue to add your own*/
+
+* {
+    color: grey;
+}
+.flag{
+    height: 300px;
+    width: 500px;
+    border-style: solid;
+    position: relative;
+    margin-bottom: 5rem;
+}
+
+.horiz{
+    display: flex;
+    flex-direction: row;
+}
+
+.twovert{
+    height: 50%;
+}
+
+.threevert{
+    height: 33.3%;
+}
+
+.sixvert{
+    height: 16.65%
+}
+
+.ninevert{
+    height: 11.11%
+}
+
+.threehoriz{
+    width: 33.3%
+}
+
+.twohoriz{
+    width: 50%
+}
+
+.fourhoriz{
+    width: 25%
+}
+
+img {
+    position: absolute;
+    top: 25%;
+    left: 34%;
+    width: 32%;
+}
+
+
+.skinny{
+    height: 17.5%;
+}
+
+.fat{
+    height: 30%;
+}
+
+
+.margin {
+    margin: 25px;
+}
+
+
+.circle{
+    border-radius: 50%;
+    height: 200px;
+    width: 200px;
+    position: relative;
+    left: 85px;
+    top: 50px
+}
+
+.square {
+    position: absolute;
+    height: 167px;
+    width: 167px;
+}
+
+.crosswidth {
+    position: absolute;
+    height: 20%;
+    width: 100%;
+    top: 40%;
+
+}
+
+.crossheight {
+    width: 20%;
+    height: 100%;
+    position: absolute;
+    left: 43%
+}
+
+
+
+
+#crossfinlandhor {
+    height: 20%;
+    width: 100%;
+    position: absolute;
+    top: 40%;
+}
+
+#crossfinlandvert {
+    width: 14%;
+    height: 100%;
+    position: absolute;
+    left: 22%;
+}
+
+
+
+
+
+/* Colors/ Feel free to add your own! */
+
+.red{
+    background-color: red;
+}
+
+.orange{
+    background-color: orange;
+}
+
+.yellow{
+    background-color: yellow;
+}
+
+.green{
+    background-color: green;
+}
+
+.blue{
+    background-color: blue;
+}
+
+.navy {
+    background-color: navy;
+}
+
+.lightblue{
+    background-color: lightblue;
+}
+
+.purple{
+    background-color: purple;
+}
+
+
+
