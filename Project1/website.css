@@ -1,0 +1,151 @@
+/* Ignore following classes */
+
+*{
+    font-family: 'Montserrat', sans-serif;
+    background-color:  #ff9999;
+}
+
+#intro{
+    color:rgb(0, 0, 0);
+    text-align: center;
+    margin: 10px;
+}
+
+.insideborder{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 50px;
+}
+
+.para{
+    font-weight: 300;
+    margin-left: 10px;
+}
+
+.text {
+    background-color: inherit;
+}
+
+#intropage{
+    display: flex;
+    flex-direction: row;
+    height: 40vh;
+    width: 100%;
+    background-color: #d9d9d9;
+}
+
+#introleftbox {
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+    width: 60%;
+    background-color: white;
+}
+
+#introrightbox {
+    display: flex;
+    flex-direction: row;
+    background-color: inherit;
+    justify-content: center;
+}
+
+#projectpage{
+    display: flex;
+    flex-flow: column wrap;
+    justify-content: space-around;
+    align-items: center;
+    height: 80vh;
+    width: 100%;
+    background-color:  #5c5c8a;
+}
+
+.projectbox {
+    padding: 10px;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 30%;
+    height: 40%;
+    background-color: #d9d9d9;
+    border-radius: 20px;
+    font-size: 50px;
+}
+
+
+
+h2{
+    font-size: medium;
+    font-weight: 200;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+/* Classes that you might find useful */
+/* Note* These classes do not cover every possibloe case to build you flags, you will have to continue to add your own*/
+
+* {
+    color: grey;
+}
+.project{
+    height: 300px;
+    width: 500px;
+    border-style: solid;
+    position: relative;
+    margin-bottom: 5rem;
+}
+
+img {
+    position: relative;
+    background-color: inherit;
+    height: 100%;
+
+}
+
+
+/* Colors/ Feel free to add your own! */
+
+.red{
+    background-color: red;
+}
+
+.orange{
+    background-color: orange;
+}
+
+.yellow{
+    background-color: yellow;
+}
+
+.green{
+    background-color: green;
+}
+
+.blue{
+    background-color: blue;
+}
+
+.navy {
+    background-color: navy;
+}
+
+.lightblue{
+    background-color: lightblue;
+}
+
+.purple{
+    background-color: purple;
+}
+
+
+
